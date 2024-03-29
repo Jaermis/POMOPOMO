@@ -1,8 +1,11 @@
 # POMOPOMO 
 
 <p align="center">
-  <img src="https://github.com/Jaermis/POMOPOMO/assets/138207746/e6842a3e-0eb3-4329-9720-f85bc1882414" alt="pomopomo" width="300">
+  <img src="https://github.com/Jaermis/pomodoro/assets/138207746/807e1e45-65b3-42fb-918b-5baaa1e676b6" alt="pomopomo" width="300">
 </p>
+
+
+
 
 ## Overview
 POMOPOMO is a Pomodoro Android app built using Flutter. It helps users manage their time effectively by following the Pomodoro technique, a time management method that uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks.
